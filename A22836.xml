@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of the substaunce of certayne necessarye statutes, to be by the iustices of peace diligently executed, within euery sheare of the realme</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1561</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22836</idno>
+            <idno type="STC">STC 9339.5</idno>
+            <idno type="STC">ESTC S3148</idno>
+            <idno type="EEBO-CITATION">33143068</idno>
+            <idno type="OCLC">ocm 33143068</idno>
+            <idno type="VID">28207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28207)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1877:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of the substaunce of certayne necessarye statutes, to be by the iustices of peace diligently executed, within euery sheare of the realme</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Richard Jugge and John Cawood, Prynters to the Quenes Maiestie,</publisher>
+                  <pubPlace>Jmprynted at London in Powles Churchyarde :</pubPlace>
+                  <date>[1561]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication from STC (2nd ed.).</note>
+                  <note>"Cum priuilegio Regiæ Maiestatis."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28207:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Collection of the ſubſtaunce of cer<g ref="char:EOLhyphen"/>tayne neceſſarye ſtatutes, to be by the Iuſtices of Peace diligently executed, within euery ſheare of the Realme.</head>
+            <list>
+               <head>The Collection,</head>
+               <item>i. Of Alehouſes.</item>
+               <item>ii. Of Apparell.</item>
+               <item>iii. Of Apprentyces</item>
+               <item>iiii. Of Archerye.</item>
+               <item>v. Of playes and games.</item>
+               <item>vi. Of Rebellion.</item>
+               <item>vii. Of Regrtors and foreſtallets.</item>
+               <item>viii. Of Tyllage.</item>
+               <item>ix. Of Vyttels and Wodde.</item>
+               <item>x. Of Wynes.</item>
+               <item>xi. Of Woddes.</item>
+               <item>xii. Agaynſt Vacaboundes.</item>
+               <item>xiii. Agaynſt reteyners &amp; geuers of liueries</item>
+               <item>xiiii. For Robberies and Watches.</item>
+               <item>xv. Againſt reportes of ſlau<g ref="char:cmbAbbrStroke">̄</g>derous tales &amp; newes</item>
+            </list>
+            <div type="section">
+               <head>Of Alehouſes. Anno. <hi>5.</hi> Edw. <hi>6.</hi> cap: <hi>25.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>Vſtices of peace, ſhal remoue comen alehouſes, &amp; tiplinghouſes wher they ſhal thinke mete.</p>
+               <p>None ſhal be ſuffered to kepe any common alehouſe or, tiplinghouſe, but ſuch as ſhalbe admitted in the ſeſſions of y<hi rend="sup">e</hi> peace, or by two Iuſtices of peace, and they ſhalbe bounde by re<g ref="char:EOLhyphen"/>cogniſaunce, agaynſt the vſynge of vnlawefull games, and for maintenaunce of good rule.</p>
+               <p>¶ The Iuſtices of peace ſhal certifye the recogniſaunce at the next quarter ſeſſions.</p>
+               <p>¶ Iuſtices of peace in their quarter ſeſſions ſhall enquyre and determine of them that be too admit<g ref="char:EOLhyphen"/>ted and bounde.</p>
+               <p>¶ If any not admitted ſhal kepe a co<g ref="char:cmbAbbrStroke">̄</g>men alehouſe or tiplingbouſe, the Iuſtices of peace ſhal commit hym to the common gayle, for .iii. dayes, and before his delyueraunce ſhall take recogniſaunce wyth two ſuertyes that he ſhal not kepe any alehouſe or typlinghouſe.</p>
+               <p>¶ The Iuſtices ſhall certifye thoſe recogniſaunces and offences, at the next quarter ſeſſions, which certificate ſhall be of conuiction of the offence, and .xx. s. ſhall in the ſeſſions be aſſeſſed for the ſyne.</p>
+               <p>¶ Fayres be accepted.</p>
+            </div>
+            <div type="section">
+               <head>Of Apparayle. Anno. <hi>1</hi> &amp;. <hi>2.</hi> Phil. and Mar. cap. <hi>2.</hi>
+               </head>
+               <p>NO englyſhe man, other then the ſonne and beyre apparaunte of a kuight, or he that hath yearly re<g ref="char:EOLhyphen"/>uenues of, xx .li. or be worth in goodes .cc. li. ſhall were ſylke, in or vpo<g ref="char:cmbAbbrStroke">̄</g> his hatte, cappe, nyghtcappe, gyrdelles, ſcabarde, hoſe, ſhooes, or ſpurreleathers, vpon forfeyture of x. li. for euery daye, and impryſon<g ref="char:EOLhyphen"/>ment by three monethes.</p>
+               <p>¶ Iuſtices of Aſſiſe, and of the peace, Sheriffes, Stewardes in letes, head officers of townes cor<g ref="char:EOLhyphen"/>porate, ſhal enquyre and determine the offences, and commit the offender to priſon, tyll he haue payde the forfayture.</p>
+               <p>¶ If any knowyng his ſeruaunte to offende, do not put him out of his ſe ruice, within .xiiii. dayes, or ſo put oute, retayne hym agayne within a yeare after ſuch offence, he ſhal forfeyt .C. li,</p>
+               <p>¶ Any aboue the degree of a knyghtes ſonne or doughter, or wyfe to any of them, or Mayor or head-officer in any towne corporate, or the wyfe of any of them, or the kynges or the Queenes ſeruauntes in ordinary wages attendaunt, wearinge ordinary liueries, maye weare as they myght before.</p>
+               <p>¶ None ſhalbe compelled to put awaye his apprentice, or hyred ſeruaunt, before thend of terme.</p>
+               <p>¶ Women may were in theyr hattes, cappes, gyrdels, and hoodes, as they myght before.</p>
+            </div>
+            <div type="section">
+               <head>Of Apprentices. Anno. <hi>7.</hi> Henri. <hi>4.</hi> cap <hi>17</hi>
+               </head>
+               <p>APprentice where his father and mother can not diſpende xx. s. by yeare, his couenaunte ſhalbe voyde, &amp; he ſhalbe put to, ſuch labour, as his father and mother vſeth, or to ſome other, as his eſtate requireth, vppon payne of a yeares impryſonment, and to make fyne and raunſome, to the kyng, and he that reteyneth hym ſhall paye .C. s. to the king if the yerely valewe of his fathers and mothers land he not ſyrſt teſtified vnder the Seale of the two Iuſtices of peace, of his countrye.</p>
+               <p>¶ And he that wylſue for the kyng ſhal haue thone halfe. And in euery lete the that be oute of ſerui<g ref="char:EOLhyphen"/>ces, ſhalbe ſworne to ſerue or els put in ſuertyes vntil they wyl ſerue.</p>
+               <p>¶ And this ſute ſhalbe taken as well before the Iuſtices of peace, as other Iuſtices.</p>
+               <p>¶ By Anno. <hi>8.</hi> Henri, <hi>6.</hi> cap. ii. London is except, And by. Anno .xi. Hen. <hi>7.</hi> cap. ii. Norwich is except.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:28207:2"/>
+               <head>Of Archerye. Anno. <hi>33.</hi> Henri. <hi>8.</hi> cap. <hi>9.</hi>
+               </head>
+               <p>EVerye ſubiecte vnder .xl. yeres of age, not haninge impedimente, (excepte ſpirituall men, Iuſtices and barons of theſcheker) ſhall vſe ſhoting. in long bowes, and haue a bowe and arrowes redye.</p>
+               <p>The fathers and rulers of menchildren ſhal bring them vp in ſhoting and haue in his houſe for euerye man chylde of vii. yeare olde tyll he come to xvii. abowe and two ſhaftes, and to abate the money for the<g ref="char:cmbAbbrStroke">̄</g> of theyr wages, vpon forfeyture vi. s. viii. d. for euery month lackyng.</p>
+               <p>Euerye man after his age of xvii, yeares ſhal haue a bowe &amp; foure arrowes and occupye the ſame vp<g ref="char:EOLhyphen"/>on forfeiture of ſixe ſhillinges eight pence, for euery month lackyng. None vnder xxiiii, yeares ſhal ſhote at pry<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kes vpon forfeyture of .iiii. d. for euerye ſhote. None aboue xxiiii. yeares ſhall ſhote at a marke of xi. ſcore or vnder, with anye prickeſhafte. vnder payne of ſixe ſhillinges eyght pence for euery ſhote.</p>
+               <p>None vnder ſeuetene yeares except he his father or mother haue ten pounde Landes, or be worth forty markes in goodes, ſhal ſhote in any bowe of ewe bought for him vpo<g ref="char:cmbAbbrStroke">̄</g>n forfeiture of vi.s.viii. d.</p>
+               <p>Butes ſhalbe made and continued in euery place by thinhabytauntes vpon forfeyture .xx. s. for euery iii. monthes lackyng. The inhabitauntes ſhal excertiſe ſhoting in holy dayes and tymes conueniente.</p>
+               <p>Bowyers out of London for euery bowe that he maketh of Ewe, ſhal make .iiii. of Elme, wich, or o<g ref="char:EOLhyphen"/>ther apte wodde, vpon forfeyture iii.s.iiii. d. for euerye bowe lackyng, and in London for euery bowe of ewe. ſhal make .ii. of aſſhe elme or other wodde mete.</p>
+               <p>No bowyers ſhal ſel anye bowe of ewe for any vnder fouretene yeres, aboue twelue pence.</p>
+               <p>And ſhall haue bowes of ewe for theym fro ſixe pence to twelue pence. And for them vnder one and twentye yeres at reaſonable pryces, and ſhall ſell no bowe of ewe of the taxe called olk aboue three ſhyl<g ref="char:EOLhyphen"/>lynges foure pence vpon forfeyture of twenty ſhyllynges.</p>
+               <p>Bowſtaues of ewe ſhalbe ſolde open, and not in bundelles.</p>
+               <p>Fletchers of London may ſell tymber to other, and ordinaunces, made by their wardens or other<g ref="char:EOLhyphen"/>wyle to the contrary to be voyde.</p>
+               <p>Bowers, fletchers, ſtringers, Arrohedmakers in London, not free ſhal by thappointmente of one of the Councell. inhabite in other Townes vpon forfeyture of xl.s. No alien nor deniſen ſhal conuey out of the kynges obeyſaunce any long bowes, or arrowes vpon forfeyture thereof, or the value, and to haue impriſonmente tyll he haue made a fyne before the Iuſtices of peace, or finde ſuretie for the fyne. nor vſe ſhot ynge without lycence vpon forfeyture of theyr bowes and arrowes to them that wyll ſeaſe.</p>
+               <p>Iuſtices of aſſiſe gayle deliuery, and of the peace, and Stewardes of letes to enquire an determine the premiſſes.</p>
+            </div>
+            <div type="section">
+               <head>Of playes and games. Anno <hi>33.</hi> Hen. <hi>8.</hi> cap. <hi>9.</hi>
+               </head>
+               <p>NOne for gayne ſhall kepe any common place of bowling, tenis, dylinge, or cardinge, or vnlaweful game, vpon forfeyture of forty ſhyllynges euery daye.</p>
+               <p>Euery perſon hauntyng the ſame to forfeyt for euery tyme ſixe ſhillinges eight pence.</p>
+               <p>Euery placarde for a common gaming houſe, ſhall conteyne what game ſhalbe there vſed, and who ſhal play thereat or ells to be voyde, and the partie opteinyng ſuch placard, to be bound in the Chaunce<g ref="char:EOLhyphen"/>tye to vſe the placarde not otherwyſe.</p>
+               <p>Iuſtices of peace and hed officers, to reſort to ſuſpected places and to impryſon the kepers and play<g ref="char:EOLhyphen"/>ers vntyll they haue found ſuertie to leaue it.</p>
+               <p>The hed officers to make ſearche monthly in ſuſpecte places vpon forfeyture of fortye ſhyllynges.</p>
+               <p>No artificer huſbandman apprentyſe nor ſeruaunt, ſhall playe at tables, tenys, dyſe, cardes, bowles, or other vnlawefull game out of Chryſtmas, vpon forfeiture of twenty ſhyllynges. And in Chryſtmas in theyr mayſter houſes or preſence.</p>
+               <p>None ſhall bowle in open place withoute his garden or Orcharde, vpon forfeyture of vi.s.viii. d.</p>
+               <p>Iuſtices of peace, and head officers, ſhall commit to awarde ſuch as ſhall vſe vnlawefull games tyll they be bounde to the contrarye.</p>
+               <p>All ſutes vppon the Statute to be comenſyd within the yeare. The Lorde of the lete to haue thone Moyte and he that wyll ſue to haue the other and oute of fraunchyſes the kynge to haue the one moyte.</p>
+               <p>Proclamation to be made by the Iuſtices and hed officers, foure times in the yeare, in euerye mar<g ref="char:EOLhyphen"/>kette and ſeſſyons.</p>
+            </div>
+            <div type="section">
+               <head>Againſt Rebellion. Anno. <hi>1.</hi> Ma. cap. <hi>12.</hi>
+               </head>
+               <p>IF .xii. or aboue aſſembled together, intende or practiſe with force, and of theyr owne aucthoritie, to chaunge any lawes made for religion by parliament, or any ſtatutes, or to ouerthrowe, cut, breake, or digge vp the pales, hedges, dyches, or other encloſiers of any parke or ground encloſed, or the bankes of any fyſhe pond or pole, or any conduyt, conduyt heades, or pypes, hauing courſe of water, to the entente that the ſame ſhoulde remayne not encloſed or voyde, or vnlawfully to haue comon, or way in the ſayde parke or grounde, or to deſtroy the dere in any parke, or any warren of connyes, or any douehouſes, or anye fyſhe in anye ponde or pole, or to pull or cutte downe anye houſes, barnes, milles, or bayes, or to burne anye ſtacke of corne, or to abate the rent of any landes. or the pryce of any victual, they being com<g ref="char:EOLhyphen"/>maunded (by the ſheriffe, or any Iuſtice of peace, Maior or Bailiffe of any towne corporate, where ſuche aſſemble, ſhalbe) by proclamation in the Quenes name, to retire to their houſes, and ſhal remayne toge<g ref="char:EOLhyphen"/>ther by an houre after the proclamacion, or after ſhal inforcible maner attempte any thinge aboueſayde, this is felonye.</p>
+               <p>It is felony in any perſon, that wythout aucthorytye by ringinge any bell, ſoundynge anye trompet, drumme, horne, or other inſtrument, fyryng any beacon, malictous ſpeakyng any wordes, makyng anye outcrye, ſettynge vp. or caſtinge any wrytynge, or by any act ſhal repſe or cauſe to be reyſed twelue per<g ref="char:EOLhyphen"/>ſonnes or aboue, to thyntente that the ſame perſons ſhould do any thinge aboue mentioned, which per<g ref="char:EOLhyphen"/>ſons
+<pb facs="tcp:28207:3"/>ſo reyſed, after commaundement as is aforeſayd, do continue together, or vnlawefully do any thing aboueſayde.</p>
+               <p>It is felonye in any wife or ſeruaunte, or any other that without compultion ſhal ſende deliuer or con<g ref="char:EOLhyphen"/>ueye any money, harnes, artyllery weapon, or vyctual to any ſo aſſembled, which do not depart to theyr houſes after commaundement as is aforeſayde.</p>
+               <p>If aboue .ii. and vnder xii. aſſembled together, entende or practiſe with force of theyr owne aucthori<g ref="char:EOLhyphen"/>tie, to kyl any ſubiecte, or to ouerthrow cut, break, or digge vp the pales, hedges, diches, or other cloſure of any parke or grounde encloſed or the bancke of any fyſhe pond or pole to thentent that the ſame ſhuld rem ayne open or voyde, or to haue common or waye there, or to deſtroy any parke, fyſhe pond or pole, or any warren of connies, or any donehouſe, or to pull or cut downe anye houſe, barne, mill, or to burne any ſtackes of corne, or altar or abate the rentes of any landes of any ſubiecte, or the pryce of any vyctuall, or anye other thinge vſuall for the ſuſtenaunce or apparell of men, and being commaunded as aforeſayde, to retyre to theyr houſes, and ſhal not ſo do, but after ſhall in forcible maner attempte or put in vre anye of the thynges laſt mentioned, they ſhall ſuffre impriſonment by a yeare.</p>
+               <p>If any ſhalbe damnifyed by the doyng or putting in vre of anye thing aboue mencioned, he ſhal reco<g ref="char:EOLhyphen"/>uer agaynſt the offendors, damages with the coſtes of the ſute trebled.</p>
+               <p>If aboue two vnlawefullye aſſemble to thintent with force to do or put in vre, anye of the thynges a<g ref="char:EOLhyphen"/>boueſayd, it ſhalbe lawefull to euery iuſtice of peace, Sheryffe, Maire, baylyfe, or heade officer of anye towne corporate, or any other hauyng the Quenes commiſſion or letters, aſwell to rayſe the ſubicetes in maner of warre in ſuch numbre as he ſhall thinke mete, to thintent by ſtrengeth to ſuppreſe and take the perſons ſo aſſembled, and that yf thoſe perſons ſo aſſembled, after ſuch commaundement by procla<g ref="char:EOLhyphen"/>mation ſhall continue together, and not endeuor them ſelfes to retourne towardes their habitations, in ſuch ſhorte time as they may conueniently, then it ſhalbe laweful to them.</p>
+               <p>Hauing aucthoritie, as is aforeſayde, to ſuppreſſe and take them ſo vnlawefullye aſſembled, and that yf any of them ſhal fortune to be kylled or hurte aboute the ſuppreſſing or taking of them, euerye perſonne hauing aucthoritie as is aforeſayd ſhalbe vnpunyſhable of ſuch kyllyng or hurtyng.</p>
+               <p>Euery copyholder, and fermer beyng yoman, artificer, huſbandman, or labourer of xviii. yeares olde or vnder ix. not impotent, nor hauynge reſonable excuſe, being requyred by them hauyng aucthoritie as is aforeſayde (they declaring their aucthoritie) or being required by the Lord imediate of their copiholde or by the landelorde of the ferme to ſerue the Quene for any cauſe aboueſayd and refuſe ſo to do, ſhal du<g ref="char:EOLhyphen"/>ring his life loſe to his lord al their copyholdes, and to his landlord his ferme, and they to entre into the ſame, and to retayne the ſame during the life of the offendor.</p>
+               <p>If any which ſhalbe moued to make commotion or vnlawful aſſembly for any of the ententes aboue<g ref="char:EOLhyphen"/>ſayd, do not within xxiiii. houres (oneles he haue reſonable excuſe) declare the ſame to a iuſtice of peace, or ſherife, Maior, Bayliffe, or other heade officer of towne corporate, where ſuch mocion is, he ſhalbe im<g ref="char:EOLhyphen"/>priſoned by three monethes, onles he be diſcharged by three Iuſtices of peace, of that Shyre (whereof one to be of the <hi>Quoum</hi>). ¶ If anye aboue xviii. yeares olde and vnder ix. able to ſerue, which ſhalbe re<g ref="char:EOLhyphen"/>quired by any Iuſtice of peace, or the Sherife there, or by the Maior, Bailiffe or other hed officer of any Towne Corporate, or by anye, of their commaundementes, to go with him to ſuppres the perſons vn<g ref="char:EOLhyphen"/>lawefully aſſembled, do willinglye and obſtinately refuſe ſo to do, he ſhalbe impriſoned by a yeare.</p>
+               <p>If the Quene by letters patentes make anye liuetenaunt in anye Shire for the Suppreſſion of any commotion, than the iuſtices of peace, Sheriffes, hed officers, and al ſubicetes there, (except they haue reſonable excuſe) ſhal vpon declaration of the letters patentes &amp; requeſt made be bound to gyue atten<g ref="char:EOLhyphen"/>daunce vpon the liuetenaunte to ſuppreſſe the commotion vpon paine of impriſonment of a yeare.</p>
+               <p>Yf any do let hinder or hurte any that ſhal proclaime or go to proclayme the proclamation, whereby the proclamation, ſhal not be made, he ſo offendyng, hauing knowledge of hys meſage, ſhal incurre ſuch payne and forfeyture as the perſons aſſembled ſhould haue incurred for not obeyng the proclamation, yf it hadde bene made.</p>
+               <p>And euery perſon aſſembled to the numbre aforeſayd to attempt or do anye thing aforeſayd, to who<g ref="char:cmbAbbrStroke">̄</g> proclamation ſhoulde or ought to haue bene made (yf the ſame had not bene let as is aforeſayde) yf they do afterwarde commit any thing aforeſayd, hauing knowledge of the lete ſoo made or procuringe the ſame lete, ſhal incurre like payne and forfeytures aforeſayd, as though the proclamation had bene made.</p>
+               <p>Theffect of this acte ſhalbe declared at euery quarter ſeſſions, and at euery lete.</p>
+               <p>The heyre of euery offender aforeſayd, and al other, excepte ſuch perſons as ſhalbe attaynted conuic<g ref="char:EOLhyphen"/>ted or outlawed of any felony aforeſayd, ſhal enioye all ſuche righte and intereſt, as they haue or ſhal, or ought to haue, as yf ſuch atteynder had neuer bene made.</p>
+               <p>Sauing to all perſons their liberties and fraunchiſes. If any do procure anye to do anye of the offen<g ref="char:EOLhyphen"/>ces aforeſayd, he ſhal ſuffre ſuch impriſonment as is before expreſſed againſt conceiloures, of ſuch offe<g ref="char:cmbAbbrStroke">̄</g>ces.</p>
+               <p>If fortye or mo aſſembled in forcible maner, and of their owne aucthoritie, to thintent to do any of the thynges aboueſayd, or other feloneous or rebellious act, and ſo ſhal continue together three howres, af<g ref="char:EOLhyphen"/>ter proclamation made, at or nigh the place of the aſſemble or in ſome market towne next, and after no<g ref="char:EOLhyphen"/>tice thereof to the geuen, euery of them ſhalbe adiudged a felon.</p>
+               <p>No liuetenaunte, ſhal make any deputie, nor ſhal conuent before hym by aucthoritie of lieutenanncie any, for any cauſe, ſaue onely for cauſes expreſſed in this acte.</p>
+               <p>None ſhalbe put to any loſſe or puniſhment as acceſſary to any of the offenders aforeſayde, for recey<g ref="char:EOLhyphen"/>uynge, comforting or aydynge any ſuch offendor after ſuch acte commytted or done. None attaynder or conuiction for any offence aforeſayde, ſhalbe corruption of bloud, betwene the offender and any of his Aunceſters, or ſuch as ſhould be heyre vnto him yf no ſuch atteinder or conuiction hadde bene.</p>
+            </div>
+            <div type="section">
+               <head>Of Regrators, Forſtallers, and ingrocers. Anno. <hi>5.</hi> Edw. <hi>6.</hi> cap. <hi>14.</hi>
+               </head>
+               <p>HE that ſhall bye any thyng commyng to ward anye markette or fayre, to be ſolde, or comminge to<g ref="char:EOLhyphen"/>warde anye place from beyonde the ſea to be ſolde, or make anye bargayue or promyſe for hauynge the ſame before it ſhalbe in the markette fayre or place to be ſolde, or make any motion, for inhauncinge of the pryce, or dyſſwade any commyng to the markette or fayre, to abſtayne to bringe any thing thyther to be ſolde, ſhalbe adindged a forſtallor.</p>
+               <p>
+                  <pb facs="tcp:28207:4"/>He that ſhall regrate or get into his handes in any fayre or market any vitayle and do ſell the ſame a<g ref="char:EOLhyphen"/>gayne, there or in any other fayre or market wythin foure myles ther of, ſhalbe taken a regrator.</p>
+               <p>He that ſhall ingroſſe and getre into his hande by byinge or promyſe (other then by demyſe or leaſe of land or tithe) any dede vitayles to ſel agayne, ſhalbe taken an ingrocer.</p>
+               <p>The offendors aforeſayde ſhall for the fyrſte offence be impryſoned by two monethes, and forfeyte the value of the thinge boughte. And for the ſeconde offence ſhall haue impryſonmente by half<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yeare and forfayte the double value of the thing bought, and for the third offence be on the pyllory and forfayte all his goodes, and be impryſoned at the kinges pleaſure.</p>
+               <p>Bying of barly bigge or otes to make malte, or bying of any thinge by an inholder or vitayler as con<g ref="char:EOLhyphen"/>cerning his facultye to ſell agayne by retayle vpon reaſonable pryce, or taking of vytayle reſerued vpon a leaſe, or bying of vitayle by any bager or carier or drouer that ſhalbe allowed or commo<g ref="char:cmbAbbrStroke">̄</g> prouiſion made for any towne, ſhyppe, or forte without forſtallinge, ſhall not be iudged any offence.</p>
+               <p>Bying of ſolde corne, and hauing ſufficient before for his owne prouiſion, not bryngynge ſo muche to the markette ſhal forfayte the double value.</p>
+               <p>Byinge of quicke cattell and ſelling of the ſame wythin .v. wekes ſhal loſe the double value.</p>
+               <p>Iuſtyces of peace ſhal enquyre and determine the offences aforeſayde.</p>
+            </div>
+            <div type="section">
+               <head>Of tillage and increaſe of Corne Anno. <hi>5.</hi> Edw. <hi>6.</hi>
+               </head>
+               <p>AS muche Lande ſhalbe put in tillage and ſo continue in euery Towne, as was in tillage by foure yeares ſynce. Anno. <hi>1.</hi> Hen. <hi>8.</hi> vpon forfeyture for euery acre. for euery yeare .v. s.</p>
+               <p>The kynge maye dyrecte commiſſions and the Commiſſioners ſhal ſearch by the othe of twelue men, what landes in euerye Towne haue ſince. Anno. <hi>1.</hi> Hen. <hi>8.</hi> ben conuerted from tillage to paſture, and ſo continueth. And the twelue men ſhall preſente the names of thoccupiers therof, and then preſentmente ſhalbe eſtreted into theſcheker.</p>
+               <p>The commyſſioners ſhal take an othe to execute the ſtatute and ſhal dyrect their precept to the She<g ref="char:EOLhyphen"/>ryfe, to warne men to enquire and preſent the premiſſes, and to ſet fynes iſſues, and amerciamentes, and eſtrete the ſame into the eſcheker.</p>
+               <p>Certen groundes be excepted.</p>
+               <p>Iuſtices of aſſiſe, of oyer, and determiner, and of the peace ſhal and enquyre and certifye the preſent<g ref="char:EOLhyphen"/>mentes, and the partie greued may tend his trauers.</p>
+               <p>Sherifes ſhal not entre into any liberties for thexecution of thys Acte.</p>
+               <p>He that is ſued by force of this acte ſhal not be ſued by any ſtatute before made for reformation of this matter.</p>
+            </div>
+            <div type="section">
+               <head>Of Vycteles and wodde. Anno. <hi>1.</hi> &amp; <hi>2.</hi> Philip. and Nari.</head>
+               <p>NOne ſhal cary out of Englande, any corne or malte, bere, butter, Cheſe, hering or wodde, except to Callys, Hames, Gines and Barwicke, vpon forfeiture of the ſhippe or veſſell, and the doble value of the thing caryed, and the mayſter and maryners of the Shippe, to forfeyte al theyr goodes, and to be in priſon by a yeare.</p>
+               <p>And yf any conueye any thinges, aforeſayd, to any veſſel on the Sea or within any place of the bor<g ref="char:EOLhyphen"/>der of this realme, to be caryed out, the forfeytures to be as is aforeſayde.</p>
+               <p>If any obtayninge any licence, to the contrary, or his aſſignes do carry any more then ſhalbe in the li<g ref="char:EOLhyphen"/>cence, he ſhal forfeyte treble value of the thing, and ſuffer impryſonment by a yeare.</p>
+               <p>None hauing a lycence ſhallade at ſondry places vpon forfeyture of the thinge, and al his goodes.</p>
+               <p>Iuſtices of peace ſhal enquyre and examyne al offenders of this acte and determine the offences.</p>
+               <p>Whan corne is at certayne pryces, it maye be caryed ouer.</p>
+               <p>Vytaylyng of ſhippes is excepted. The Admyrall may execute his iuriſoiction.</p>
+            </div>
+            <div type="section">
+               <head>Of VVynes. Anno. <hi>7.</hi> Edw. <hi>6.</hi> cap <hi>5.</hi>
+               </head>
+               <p>NOne ſhall retayle any Gaſcoyne or french wynes but at viii. d. the gallon, and rochell wine, but at iiii. d. the gallon, vpon for feyture of fyue pound for euery offence.</p>
+               <p>None except he haue of yearely profites certayne .C. markes, or be worth in goodes a thouſand mar kes, or the ſonne of a Duke, Marques, Earle, Viſcount, or baron, ſhal haue in his houſe to ſpende anye pece of Gaſcoyne, French or rochel wyne, aboue ten Gallons vpon forfeyture of x.li.</p>
+               <p>None ſhal kepe any cauerne or ſel by retayle any wynes, except certayne places appoynted in the ſta<g ref="char:EOLhyphen"/>tute, &amp; except ſuch as haue the kynges and Quenes letters, vpon forfeyture for euery day .xx.li.</p>
+               <p>None ſhall kepe any tauerne nor retayle anye wine but ſuche as ſhalbe aſſygned thervnto by wry<g ref="char:EOLhyphen"/>tynge vpon forfeyture of fyue pound for euery daye.</p>
+               <p>There ſhalbe aſſygned, but two tauernes in euery towne (except certen townes)</p>
+               <p>Forty tauernes ſhalbe in London, and certen numbre is appointed for diuers cities, and townes.)</p>
+               <p>None ſhall ſell by retayle any wynes to be ſpent in his houſe, vpon forfeyture of ten pounde.</p>
+               <p>March auntes aduenturyng for wines may ſpend in his houſe ſuch wynes as he bryngeth into Eng<g ref="char:EOLunhyphen"/>lande, not ſellynge it.</p>
+               <p>Sheryffes and hed officers of towne corporate, and kepers of fortes, maye haue wyne in theyr how<g ref="char:EOLhyphen"/>ſes, to ſpend there wythoute ſellynge.</p>
+               <p>Iuſtices of peace, Stewardes of letes, ſhiriffes, and eſchetours, maye enquyre by xii. men of theſe offences, the moitie of the forfcytures there founde to the kyng, &amp; thother to the pore people of that place.</p>
+               <p>Thys Acte ſhall not take awaye the priuiteges of the vniuerſities.</p>
+            </div>
+            <div type="section">
+               <head>Of VVoodes. Anno. <hi>35.</hi> Hen. <hi>8.</hi> cap. <hi>17.</hi>
+               </head>
+               <p>VPon woodes, Copyes, or vnder wooddes, there ſhalbe left vnfelled for euery acre felled twelue ſtan<g ref="char:EOLhyphen"/>delles like to proue timber, whych ſhalbe preſerued tyl they be of tenne inches ſquare, wythin ſhre fots of the grounde vpon forfeyture for euerye ſtandell ſo not lefte .iii. s. iiii. d.</p>
+               <p>
+                  <pb facs="tcp:28207:5"/>¶ All copyes and vnderwoddes at thage of fourtene yeares, during foure yeares ſhalbe encloſed or the ſprynges thereof preſerued vpon forfeyture for euery rode iii.s.iiii. d. for euery moneth.</p>
+               <p>¶ All copyes and vnderwoddes felled aboue the age of xiiii. yeares during ſixe yeares ſhalbe enclo<g ref="char:EOLhyphen"/>ſyd or the ſpring preſerued vpo<g ref="char:cmbAbbrStroke">̄</g> forfeyture of iii.s.iiii. d. for euery monthe.</p>
+               <p>¶ None ſhal retourne into paſture or tyllage any copyes or vnder woddes conteininge two acres nowe preſerued for thincreaſe of wodde, vpon forfeyture for euery acre .xl.s.</p>
+               <p>¶ Euery perſon hauing any ſeuerall wods, or copyes with great trees aboue iiii. and twenty yeres groth, ſhal at the felling leue for euery acre twelue trees to be preſerued during twenty yeares.</p>
+               <p>¶ And during ſeuen yeares encloſe them, or preſerue the ſpringes vpon forfeyture for euery of thoſe trees felled ſixe ſhillinges eyght pence, and for euery rode iii.s.iiii. d. Sauing thoſe trees maye be cutte downe for buildinges and reparations.</p>
+               <p>¶ None hauing wodes, wherin any hath comon ſhall ſel thoſe woddes but to his owne occupation, tyl the forth part be by the owner incloſed as is declared in this acte.</p>
+               <p>¶ And at euery felling it ſhalbe encloſed and preſerued .vii. yeares, and no beſtes durynge thoſe ſeuen yeares, ſhalbe ſuffered to fede in the parte, and the commons to haue their comon in the reſydewe, &amp; the lorde is excluded to put any cattel there or to take any profitte of the paſture there during thoſe vii. yea<g ref="char:EOLhyphen"/>res, and after the vii. yeares al to lye in common for the lord and the commons.</p>
+               <p>¶ And yf that parte encloſed be not fylled within iiii. moneth, than the commons to vſe their comen, and the owner to leaue open places, whereby the common beaſtes may come in as longe as it ſhal ſtand vnfelled.</p>
+               <p>Certayne places and former bergaynes be excepted.</p>
+               <p>Breakers of fenſes ſhall forfeyt .x.s.</p>
+               <p>If any ſuffre his ſwine to go in any common or woddes, not ringyd or pygged the owner ſhall forfeyt for euery ſwine .iiii. d.</p>
+               <p>Where woodes ſhalbe felled in any ground incloſed where dere ſhalbe kepte, their incloſure ſhall be kept for foure yeares.</p>
+               <p>If the inclouſures be broken agaynſt the wylles of the owner, the penaltyes to be exte<g ref="char:cmbAbbrStroke">̄</g>ded vpon thoſe by whom the ſpring ſhalbe hurted.</p>
+               <p>After the wodes preſerued by two yeares, Coltes and Calues vnder a yeare old may be put there.</p>
+            </div>
+            <div type="section">
+               <head>Againſt Vacaboundes. Anno. <hi>22.</hi> Hen. <hi>8.</hi> cap. <hi>12.</hi>
+               </head>
+               <p>THe iuſtices of peace, Maiors, Sherifes, Bailifes, &amp; other officers within their limites ſhall deuide them ſelfe, and ſo deuided ſhal make diligente ſearch and enquirie of all aged poore and impotente perſons which of neceſſitie be compelled to liue of almes that ſhalbe abiding within the limittes of their diuiſion, and thervpon ſhal haue power by their diſcretions to enable to beg, within their limittes, ſuch impotent perſons, which they ſhall thinke conuenient within the limittes of their diuiſion to liue of al<g ref="char:EOLhyphen"/>mes, and to commaunde them not to begge without the lymittes to them ſo appointed, and ſhall wryte the names of euery ſuch begger, in a rol indented whereof thone parte to remayne with them ſelfes, and thother to be certified at the next ſeſſions of the peace, and they ſo deuided, ſhal haue power to make ſea<g ref="char:EOLhyphen"/>les with the names of the hundredes, rapes, wapentakes, cities, boroughes, townes, or places, within which they ſhal limit euery ſuch begger &amp; ſhal deliuer to euery ſuch begger a letter ſealed with the ſayde Seale, and ſubſcribed, with the name of one of the ſaid iuſtices, or officers, conteining hys name &amp; wit<g ref="char:EOLhyphen"/>neſſyng that he is aucthoriſed to begge, and hys lymyttes, and if he begge out of hys limittes, the iuſtice of peace, &amp; al other the kinges offycers, ſhal impriſon him in the ſtockes by two dayes and two nyghtes, geuing him onely breade, and water, and after ſhall cauſe him to be ſworne to retourne without delaye to the place where he is auctoriſed to begge in.</p>
+               <p>¶ No impotent perſon ſhal begge except he be auctoriſed by wrytinge vnder ſeale as is aboue ſayde, and if any impotent perſon goo a begging hauing no ſuch letter, the conſtable and other inhabitauntes ther, ſhal cauſe them to be brought to the next Iuſtice of peace or high conſtable of the hundreth, who ſhal cauſe the bryngers to ſtrippe him naked from the middle vpwarde, and cauſe him to be whypped, wher the ſayde Iuſtice or high conſtable ſhal appoynt, or els commaund him to be ſet in ſtockes where he was taken, by three dayes and thre nightes, there to haue onelye breade and water, and therevpon the ſayde Iuſtice or highe conſtable ſhall lymit to hym a place to begge in, and geue him a letter vnder ſeale as is a<g ref="char:EOLhyphen"/>foreſaide, and ſwere him to repayre thither immediately.</p>
+               <p>If any beynge whole and able to laboure, be taken in begginge, or hauinge no lande, mayſter, nor v<g ref="char:EOLhyphen"/>ſyng any lawful marchaundiſe or craft to get his liuing, be vagaraunt and can geue no reckening howe he doth get his liuinge, then it ſhalbe lawefull to the conſtables and ſubiectes of euerye place, to areſt him and brynge him to anye Iuſtice of peace, or to the hyghe conſtable of that place, and if he be taken in anye towne corporate, then to be broughte to the mayor, Sherifes, or bayliffes there, and they to cauſe hym to be had to the nexte place where they ſhal thincke conueniente, and there to be tyed to thende of a carte naked, and to be beaten with whyppes through out that place tyl his body be bloudy, and the<g ref="char:cmbAbbrStroke">̄</g> he by them to be enioyned by his othe, to retourne forthewith the nexte waye to the place where he was borne, or where he laſt dwelt by three yeres, and ther to put him ſelfe to laboure, and he to haue a letter ſealed with the ſeale of the place wherein he ſhalbe puniſhed, witneſſing that he hathe ben puniſhed according to this eſtatute, and conteyninge the daye and place of his puniſhmente, and the place whervnto he is lymitted to goo, and by what tyme he is limytted to come thyther, wythin whych tyme he maye lawefully begge by the waye. And yf he doo not accomplyſhe that letter, then to be efte ſoones whypped, and ſo often as any default ſhalbe in hym, in euery place to be whypped til he be repayred where he was borne, or wher he laſt dwelt by three yeres, and there to labor for his liuinge.</p>
+               <p>And yf anye ſo whypped be an ydle perſon and no common begger, then after ſuche whyppinge he ſhalbe kepte in ſtockes til he haue found ſuertye to go to ſeruice or laboure, or els to be ſworne to repayre where he was borne, or wher he laſt dwelt by thre yeares, and to haue lyke letter and puniſhment yf he
+<pb facs="tcp:28207:6"/>eftſones offende, as is aboue appointed for the comon ſtrong begger, and ſo fro<g ref="char:cmbAbbrStroke">̄</g> time to time tyl he gette hys lyuing. Iuſtices of peace ſhall haue power to enquyre of all Maiors and other officers, &amp; perſons, that ſhalbe necligent in executing this acte. If the Conſtables and inhabitauntes wher anye ſuche im potente perſons or ſtrong beggers do begge, be necligent and do not puniſhe him as is aboue limitted, the to wneſhyppe for euery ſuch impotent begger ſhall forfayt .iii.s.iiii. d. and for euerye ſtronge begger ſixe ſhyllynges eyght pence the moyte. &amp;c.</p>
+               <p>All Iuſtices of peace ſhall haue power to determine euery ſuch defaulte and to make proceſſe by dy<g ref="char:EOLhyphen"/>ſtres againſt the inhabitauntes ther, by which diſtreſſe the Shyriffe ſhal deteyne the good of ſuch one or two, of the ſaid inhabitauntes , as he maye haue knowledge were moſt necligent in the execution of this act, &amp; the ſaid diſtres retayne tyl he fynd ſuertie to appeare at the ſeſſions limitted in the ſayde diſtres. &amp; yf he appeare &amp; confeſſe the default, or tranſgreſſe the preſentment, and it be tried agayuſt hym, or denye the information &amp; it is proued agaynſt hym, then the Iuſtices of peace in their Seſſions ſhal aſſeſſe their fine if it grow by preſentme<g ref="char:cmbAbbrStroke">̄</g>t the leuiyng of the ſame by diſtres, of the inhabitauntes of the towne, y<hi rend="sup">e</hi> fines and to make proces for to the kyng, and if it growe by information, then the moyte to him that ſueth. &amp;c.</p>
+               <p>If any perſon diſtreyned, appeare not, then vppon the returne he ſhal loſe at the fyrſte .iii.s.iiii. d. and at the ſecond .vi.s.viii. d. and ſo to be doubled for euery diſtres.</p>
+               <p>Scolers of vniuerſities that go a begging not being auctoriſed vnder the ſeale of the vniuerſitie, and al ſhypmen pretending loſſes on the ſea, going a begging without aucthoritie, ſhalbe puniſhed like ſtro<g ref="char:cmbAbbrStroke">̄</g>g beggers. And all procters and pardoners going without auctoritie, and al other ydle perſons, ſome v<g ref="char:EOLhyphen"/>ſing vnlaweful games, and ſome fayning to haue knowledge in phiſicke, phiſnomy, palmiſtry, or other crafty ſciences: yf he before two Iuſtices of the peace, wherof one to be of the Quorum, be found gyltye, ſhalbe whipped two dayes together after the maner before reherſed, &amp; for the ſecond offence to be ſcour<g ref="char:EOLhyphen"/>ged two dayes, and the third day to be put on the pyllory from nine of clocke vnto eleuen, and to haue one of hys eares cutte of, and for the third tyme to haue lyke punyſhment &amp; to haue his other eare cut of.</p>
+               <p>The Iuſtices of peace haue like aucthoritie within theyr fraunchyſes.</p>
+               <p>Thys act ſhalbe yerely reade in the open ſeſſions.</p>
+               <p>If any geue herborow or money to any begger hable to worke, he ſhall make fyne to the kynge by the diſcretion of the Iuſtices of peace at theyr general ſeſſions.</p>
+               <p>If any let thexecution of this acte or make reſcues, he ſhal forfeit C.s. and haue impriſonmente at the kynges wyl, thone moyte. &amp;c.</p>
+               <p>This acte ſhal not be preiudiciall to the barons and inhabytauntes of the fyue portes.</p>
+               <p>And the Maior, Baylyffe, electes and Iurates in any towne within the fyue portes haue lyke auctho<g ref="char:EOLunhyphen"/>ritie as the Iuſtices of peace haue in any ſheyre.</p>
+               <p>And the inhabitauntes within the ſayd fyue portes ſhalbe bound to thexecution of this acte vpon like payne, before remembred, and if any that ſhal inhabite within the fiue portes, beg without the fiue por<g ref="char:EOLhyphen"/>tes he to be puniſhed according to this act, euery letter to be made wherby any impote<g ref="char:cmbAbbrStroke">̄</g>t ſhalbe aucthori<g ref="char:EOLhyphen"/>ſed to beg ſhalbe made in this forme. Kent. S. Memorandum that A.B. of D. for reaſonable conſidera<g ref="char:EOLhyphen"/>tions is licenſed to beg within the hundred of P.K. and L. in the ſayd countie, geuen vnder the ſeale of that limit. tali die &amp; anno. And euery letter deliuered to ſuche begger or vagabounde after he hath bene whypped ſhalbe made in thys wyſe. Kent. S. I. S. whipped for a vagabound ſtronge begger at Dale in the ſayd county according to the lawe, the xii. day of Iuly in the xxiii. yeare of kyng Henrye the eyght, was aſſigned to paſſe, forthwith and directly from thence to Gale in the county of Med. wher he ſayth he was borne, or where he laſt dwelled by the ſpace of three yeares, and he is lymytted to be there within fourtene dayes next enſuing at hys peryl, In witnes wherof the ſeale of the limitte of the ſaide place of hys puniſhment herevnto is ſet.</p>
+               <p>And euery ſuch letter aboue reharſed ſhalbe made at the equal coſtes of all ſuche Iuſtices, Mayors and other officers, aboue rehearſed, and ſhalbe ſubſcribed wyth one of their handes, after thys forme <hi>Per me. A.B. vnum Iuſtitiariorum pacis,</hi> or <hi>Maiorem ciuitatis,</hi> or <hi>Ballium uillae,</hi> or <hi>Constabularium talis</hi> hundreth, or els in lyke forme in Engliſhe.</p>
+               <p>And they that haue the cuſtodye of anye galoes, ſhall make a ſeale graunted, with the name of the pry<g ref="char:EOLhyphen"/>ſon or gaole, and they that be deliuered oute of pryſon for ſuſpicions of felonye and haue not wherewith to pay their fees, ſhal haue libertye to beg for their fees by vi. wekes, and then compelled to go where he was borne, or where he laſte dwelled by three yeares, and euery one ſo deliuered, ſhal haue a letter to him deliuered by the clerke of the peace, or by the towne clerke where he is deliuered, wytneſſinge the tyme and ſpace of his deliueraunce, and afore whome, and the tyme appoynted hym to begge for hys fees, and the place whether he is aſſigned to go, and to euery ſuch letter the gaoler ſhal put to the ſeale before re<g ref="char:EOLhyphen"/>herſed, and euery ſuch letter ſhalbe made in this wiſe folowinge, Eſſex. S. The .xx. day of Iuly. An. reg<g ref="char:EOLhyphen"/>ni regis. H. viii. xxiii. I. S. was delyuered for felonye oute of the gaole of D. in the ſayde countye at the Seſſions holden before. A.B. and his felowes at Gale, the daye and yeare aforeſayde, and is allowed to begge for his fees by the ſpace of .vi. wekes, &amp; in caſe he can get him no maiſter to worke with, within the ſayde terme, then he is aſſigned to paſſe directly to Dale in the ſayde countye of Kent, where he ſaide he was borne, or where he laſt dwelled by the ſpace of thre yeres; and he is allowed .xiiii. dayes nexte after the ſaid ſixe wekes, for his paſſage thither. In witnes wherof the ſeale of the ſaid priſon is herevnto ſet.</p>
+               <p>And in ſuch ſhyres where is no gayle, the Sherife ſhal cauſe a ſeale to be ingraued with the name of the ſhyre, and ſhall ordre and vſe the ſame in like forme. And euery clerke of the peace or towne clerke ſhal make for eueryſuch perſon ſo deliuered the ſayd letter without any ſee therefore taken, and deliuer it to the gaoler or the Sherife of the Shyre yf there be no gaoler, within one day after the ſeſſions, vpo<g ref="char:cmbAbbrStroke">̄</g> paine of forfeiting for default of euery letter .xii. d. to the kyng. Nor the gaolers nor Shyriffes ſhal ſuffre none to depart out of pryſon except it be to ſeruice or labour, without he firſt delyuer hym the ſayd lettre ſealed with the ſayd ſeale, vnder like payne for euery defaulte.</p>
+               <p>And yf any being deliuered out of priſon, do beg without hauing ſuch letter, or do beg contrary to y<hi rend="sup">e</hi> tenor of hys letter, the<g ref="char:cmbAbbrStroke">̄</g> he to be taken and whipped as aboue is ſayd of the ſtrong beggers, and that to be done vpon ſuche payne as is afore limitted for none execution of punyſhment of ſtrong beggers.</p>
+               <p>Euery perſonne beyng bounde by any foundation, to geue any money in almes, and to euerye perſon at common doles vſed at buryalls or obyttes, to geue money in almes to al perſons commynge to ſuche
+<pb facs="tcp:28207:7"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before this tyme <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne.</p>
+               <p>Mayſters of hoſpitalls maye lodge anye perſon accordyng to their foundacion, and to geue money in almes in ſuche wyſe as they are bounde to do.</p>
+            </div>
+            <div type="section">
+               <head>Againſt Vacaboundes. Anno. <hi>3.</hi> Edwar. vi. Ca. <hi>16.</hi>
+               </head>
+               <p>If any aged or impotent offend this ſtatute, he ſhalbe puniſhed as is proued in the ſtatute of two and twentye. H. viii. capi .xii.</p>
+               <p>Common labourers hable in body, vſing loytering and refuſyng to worke for ſuch reaſonable wages as is moſt commonly geuen wher he dwelleth, ſhalbe for euery refuſel adiudged a vagabound, and ſhal be puniſhed as ſtrong and myghtye vacaboundes, in ſuch forme as is declared in the ſayd act of. <hi>22.</hi>
+               </p>
+               <p>All mayres, Sheryfes, baylifes, conſtables, or hed officers of citie Towne or village, ſhal before the purificacion. Anno.domi. 1549. ſe al ſuch idell impotent maymed, and aged perſons, who can not be ta<g ref="char:EOLhyphen"/>ken for vacaboundes, which were borne there, or haue bene there moſt conuerſaunt by three yeares, and now decayed prouyded of houſes, at the coſtes of the ſayde Towne, there to be releued and cured by the deuocion, of the people there. And that they do not ſuffer there any other to begge within that precincte, except ſuch as are aucthoriſed by this act vpon forfeyture for euery foure dayes .x.s. to him that wil ſue.</p>
+               <p>Mayres, Baylifes, Sherifes, conſtables, and other hed officers ſhal euery moneth once, make a vew of aged impotent and lame beggers within their precinct, &amp; ſe al ſuch as were not borne ther nor hath bene for the moſt part there conuerſaunt by thre yeares, or be not aucthoriſed by this eſtatute, conueied to the next conſtables and they to conuey them to the next conſtables, and ſo from conſtables to conſta<g ref="char:EOLhyphen"/>bles, til he be brought to the place wher he was borne or was moſt conuerſaunt, there to be nouryſhed, of almes, as is aforeſayd, vpon forfeiture for euery default .x.s. the one moite. &amp;c.</p>
+               <p>If any ſuch aged maimed or impotent perſon not ſoo impotente but that they maye worke in ſome worke than ſuch Towne ſhal either in common prouide ſuch worke for him as he may be occupied in or appoint him ſuch as wyl fynde hym worke for meate and drinke which if he refuſe to do or tunne away and begge than to punyſhe him with ſtokkyng, beting, or other wiſe as ſhal ſeme conuenient.</p>
+               <p>All lepers and bedderedes may remaine in ſuch houſes appointed for them as they be nowe in, and may appoint their proctours, ſo they be not aboue two for one houſe, together almes w<hi rend="sup">t</hi>in foure myles.</p>
+               <p>Commiſſions may be graunted to ſuch as hath their howſes, or barnes burnyd, or ſuch loſſes, or to lepers, to gather almes.</p>
+               <p>If any chylde aboue fyue yeare olde or vnder .xiiii. go wanderyng or alone, if any that is able to kepe it, wil take it from any begger being the father or mother or other, and bring it before one of the Conſta<g ref="char:EOLunhyphen"/>bles there, and the next quarter ſeſſions, nexte preſent it in the preſentes of the conſtable before the Iu<g ref="char:EOLunhyphen"/>ſtices of peace &amp; there promyſed to bring it vp til the woman childe be xv. yeare old, &amp; the man child .xvii. yere old theſe Iuiſtces ſhal adiudg y<hi rend="sup">t</hi> child vnto thoſe ages, to be ſeruau<g ref="char:cmbAbbrStroke">̄</g>t to him ſo promiſing which child ſhalbe ordered as ſeruauntes w<hi rend="sup">t</hi>out wages, and that, iudgement to be entred by the clearke of the peace.</p>
+               <p>If ſuche chylde runne awaye, the mayſter to take it, and kepe it and puniſhe it, at the libertye of the mayſter, and to haue a warrant from a Iuſtice of the peace, for the child running away, and therby the chylde to be taken and ordered as is prouided by the ſtatute laborers, for ſeruauntes, departing out of theyr mayſters ſeruyce.</p>
+               <p>If any perſon ſtele or intiſe awaye anye ſuche chylde ſoo adiudged for a ſeruaunt, the maiſter to take an action vpon the ſtatute laborers, agaynſt ſuch ſteler or intiſer, or an action of treſpas, wherein he ſhal recouer damages and treble coſtes, of his ſute.</p>
+               <p>If the mayſter be vnreaſonable in orderynge ſuche childe, then vpon complaynte made at the quar<g ref="char:EOLhyphen"/>ter ſeſſions, by two honeſt neyghbours, if it ſhal then appeare by honeſt wytnes, the co<g ref="char:cmbAbbrStroke">̄</g>plaint to be true the Iuſtices of peace ſhal diſcharge the chyld from hys mayſter, and appoint him to ſome other, &amp; that to be written in the boke of the clerke of the peace, for which he ſhal haue foure pence, and ſhall haue alſo foure pence for the fyrſt entry of the chyld to be ſeruaunt, this to be payde by the mayſter.</p>
+               <p>If ſuch woman child be maried afore fiuetene yeare olde, ſhe ſhalbe dyſcharged of ſeruice.</p>
+               <p>Euery vacabounde or begger being alien, ſhal in fourme aforeſaid and vpon the forfeitures aforeſaid be conueied from place to place, to the place next adioyning, to hys countrie, or to the next port yf ther be ſea betwene this realme, and hys country, there to be kept of the inhabitauntes, of that porte, in conue<g ref="char:EOLhyphen"/>nient laboure or otherwyſe, tyll he may be conueied ouer, and than at the coſtes of thoſe inhabytauntes, (yf hym ſelfe ſhal not haue wher with) to be conueyed ouer to hys countrey.</p>
+            </div>
+            <div type="section">
+               <head>Againſt reteiners and geuers of liueries made in Anno octauo Edwardi quarti Capitulo ſecundo.</head>
+               <p>NOne maye gyue lyuerye or other ſigne nor retayne anye but onely his manuell ſeruaunte, officer, or a man of thone lawe or of thother, by anye wrytyng, oth, or promyſe. And yf he doth contrarye, the geuer ſhall loſe .C.s. for euery month, that there is any with him, ſo reteyned, and the receyuer .C.s and he that wyll ſue ſhall haue an accion by byll of information, agaynſt a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> my offendours, as he wyll in euery of the kynges courtes, before Iuſtices of Peace of aſſiſe and gayle delyuery, or Countye Palen<g ref="char:EOLunhyphen"/>tyne, and in Dureſme and in Examſhire, there-vpon proceſſe ſhalbe as in treſpas, except that in county Palentyne, nor in Dureſme, no exigente ſhalbe awarded, and yf anye of the offendours be preſente in Courte the iuſtices may commaunde hym to be brought, to aunſwere, and firſt the informer ſhalbe exa<g ref="char:EOLhyphen"/>amined vpon a booke that his complaynte is true, and after they examine that defendaunte, and iudge him conuicte by their diſcretion, aſwel as by trial. And the informer ſhal recouer the one halfe and the king the other halfe, if it be not in citie or town, that hath lyke forfeyture, by the kinges graunt and that no eſſoigne nor proteccion be allowed. And that the ſherife or coroner mai retourne no leſſe iſſues at the firſt daye then .x.s. and the ſeconde .xxx.s. and ſo at euery daye .x.s. of increaſe. And if the ſherife or coro<g ref="char:EOLunhyphen"/>ner to the contrary he ſhall forfeyte euery tyme .xx.s. And the mayer &amp; gouerners of cities and townes, that haue power to here and determine plees perſonnels, haue power to examine and to determine it as is beforeſayde, aſwell by examination as by triall. And vpon that the kinge ſhal haue thone halfe, the Mayors or gouernours, the other halfe, to be imployed to the vſe of the citye or towne.</p>
+               <p>Item the kynges and the Quenes maieſties pleaſures are, that all other ſtatutes conſernyng retei<g ref="char:EOLhyphen"/>ners, and geuyng lyueryes now remaynyng in force ſhalbe put in execution.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:28207:8"/>
+               <head>The ſtatute of Winton for robbeties hewe and crye and for watches to be kepte.</head>
+               <p>AFter a robbery or felony done freſhe ſuit ſhalbe made from towne to towne. &amp;c. and yf nede be in<g ref="char:EOLhyphen"/>queſtes ſhalbe made in townes, hundredes, fraunchyſes and counties, ſo that the felones maye be attaynt and ſuffre execution, and yf they be not taken, then the people wher ſuch robbery was done, as in hundred and fraunches ſhal aunſwere therefore. And yf it be done betwene two Shyres. &amp;c.</p>
+               <p>Within xl. dayes yf the miſdoers be not taken. Alſo in greate townes the gates ſhalbe cloſed from the ſonne riſyng to the ſonne ſettynge, and no man herborowe none in the ſuburbes, but ſuch as he wil aun<g ref="char:EOLhyphen"/>ſwere for, and the Baylyffes of Townes ſhal enquyre of ſuch euery weke. Alſo watch ſhal be made and kept from Aſſention tide tyll Myghelmas, in euery citie, by ſixe men at euery gate, and in euery borowe by twelue men in euery hole towne, by ſixe men or foure after the numbre of thinhabitauntes contynu<g ref="char:EOLhyphen"/>ally al the nyght from the ſonne ſet, to the ſonne ryſynge. And yf any ſtraunger come by them, he ſhalbe arreſted vntyl mornynge, and yf he be ſuſpicious, he ſhalbe brought to the Sheryffe to be kept vntyll he be delyuered by due ordre, and euery towne adioyninge ſhalbe ayding to other. Alſo the hye wayes of market townes, ſhalbe enlarged where there is any woddes, hedges, dyches, or buſhes, nygh the hye waye .CC. fote one thone ſide. and CC. fote on the otherſyde, but this ſtatute extendeth not to okes, nor great fuſtes, ſo that they be clere vnder, and yf the Lorde wyll not do thus, yf any robveries or murder be done, he ſhal aunſwere therfore, and make fine at the kynges wyll. Alſo in the hye wayes, in the kyn<g ref="char:EOLhyphen"/>ges wodde, or parke nygh the hygh wayes, it ſhalbe done after the ſame maner, or ells that the Lorde ſhal make ſuch wall, diche, or hedge, that the euyll doers can not eſcape, and no fayre nor market be hol<g ref="char:EOLhyphen"/>den in no Churcheyarde.</p>
+            </div>
+            <div type="section">
+               <head>Againſt reportes of ſlaunderous tales and newes. VV. <hi>1.</hi> cap. <hi>34.</hi>
+               </head>
+               <p>YF any perſon ſhal publiſhe or forge falſe newes wherof diſcord or ſlaunder may aryſe, betwene the kinge and his people or the nobles of his Realme, the ſame ſhalbe unpriſoned vntil he ſhal bringe forth in court the Author of ſuch newes.</p>
+            </div>
+            <div type="section">
+               <head>Anno. <hi>2.</hi> R. <hi>2.</hi> cap. <hi>5.</hi>
+               </head>
+               <p>THe forgers and counterfeictors of falſe newes and horrible falſe meſſynges of Prelates, Dukes, Earles, Barons, and other nobles &amp; great perſonages of the Realme, or of the Chauncellor, Trea<g ref="char:EOLhyphen"/>ſourer, Clerke of the preuye Seale, Steward of the Kinges Howſe, Iuſtices of thone bench or thother or of any other great officers of the Realme, of thinges which by the ſame Prelates, Dukes, &amp;c. were ne<g ref="char:EOLhyphen"/>uer ſpoken or thought of to their great ſlaunder, wherof debates and diſcord may ariſe berwene y<hi rend="sup">e</hi> ſayd Lordes and Commons, ſhal ſuffre the puniſhment mentioned in the ſaide Acte of W. <hi>1.</hi> vntil they haue brought forth in court thauctor of the ſaid falſe newes and meſſinges.</p>
+            </div>
+            <div type="section">
+               <head>Anno. <hi>12.</hi> R. <hi>2.</hi> cap. <hi>11.</hi>
+               </head>
+               <p>ANd yf the ſaid forgers and counterfeictors cannot bring forth the Aucthor of the ſaid falſe newes, then they ſhalbe puniſhed by thaduiſe of the kinges Counſell.</p>
+            </div>
+            <div type="section">
+               <head>Anno <hi>1.</hi> et <hi>2.</hi> Phi. &amp; Mar. cap. <hi>3.</hi>
+               </head>
+               <p>THe Iuſtices of peace within the limittes of their Commiſſion, may heare and determine all offen<g ref="char:EOLhyphen"/>ces committed and done againſt the forme of the ſaid ſeueral ſtatutes</p>
+               <p>And further yf any perſon or perſons maliciouſly of his or their own imagination ſpeake any ſedici<g ref="char:EOLhyphen"/>ous or ſlaunderous newes, Rumors, ſayinges &amp; tayles of oure Soueraigne Ladye the Quenes Ma<g ref="char:EOLhyphen"/>ieſtie, euery perſon ſo offending for the firſt offence ſhal in the market place, nere wher the wordes were ſpoken, be ſet openly vpon the pillory and ſhal haue both his eares cut of, oneleſſe he pay C. l. to y<hi rend="sup">e</hi> quenes hyghnes vſe, within a moneth next after iudgement giuen agaynſt hym, and alſo be impriſoned by the ſpace of three monethes next after his or their execution.</p>
+               <p>If any ſuch ſedicious or ſlaunderous newes be ſpoken by any perſon of the reporte or ſaying of anye other, then the ſame perſon to be ſet openly vpon the pillory as is aforeſaid, and to haue one of his eares cutte of, onles he pay on hundreth markes within the time &amp; to thuſe aforeſaid, and alſo ſuſteyne a mo<g ref="char:EOLhyphen"/>neth impriſonment next after his execution.</p>
+               <p>And yf any perſon maliciouſly deuiſe, write, print, or ſetforth any Boke, Ryme, Ballade, Lettre, or writing, conteining falſe matter clauſe, or ſentence of ſlaunder, reproch, and diſhonor of the Queenes highnes, or the encouraging, ſterring, or mouing of any inſurrection or rebellion, or ſhal procure anye of the ſaid offences to be done (yf the ſame be not puniſhable by the ſtatute of xxv. E. <hi>3.</hi> cap. <hi>2.</hi> touching trea<g ref="char:EOLhyphen"/>ſons. &amp;c. the ſayd perſon ſhall after conuiction for his firſt offence in ſom market place haue his righte hande cutte of.</p>
+               <p>Item yf any perſon once conuicte of any of the ſayd offences puniſhable by loſſe of eare, eares, or ha<g ref="char:cmbAbbrStroke">̄</g>d do after wardes offend in any of the ſaid offences, then he ſhal ſuffre impriſonment during his lyfe, and forfeyte to the quenes highnes vſe al his goodes and cattels.</p>
+               <p>The ſayd offences are inquirable and determinable before Iuſtices of Oyer &amp; determiner, Iuſtices of aſſiſe or gayle delyuery, or Iuſtices of peace.</p>
+               <p>If any Iuſtice of peace vpon vehement ſuſpicion may commit any perſon ſuſpected to pryſon, ther to remayne wythout bayle or maynepryſe.</p>
+               <p>The offenders agaynſte this acte muſt be accuſed and conuict within thre monethes next after thof<g ref="char:EOLhyphen"/>fence commytted.</p>
+               <closer>God ſaue the Quene.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprynted at London in Powles Churchyarde by Richard Iugge, and Iohn Cawood, Prynters to the Quenes Maieſtie.</p>
+            <p>
+               <hi>Cum Priuiligio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
